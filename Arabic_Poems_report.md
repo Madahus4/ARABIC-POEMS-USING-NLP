@@ -30,14 +30,39 @@ The datase that will be used in this project has been downloaded from [here]( ht
 
 3. Classification
 - 7 classification models were built:
-    - **XGBClassifier***
+    - **XGBClassifier**
     - Gaussain Naive Bayes 
     - Support vector machines (SVMs)
     - Random Forest
     - Multinomial Naive Bayes
     - Decision Tree 
     - Logistic Regression
+
+4. Clustering
+- We calculates the inertia for 1 to 5 clusters.
+- PCA to easily visualize clustering
+- TSNE
+
+
+## Tools:
+* Software Platform :Jupyter Notebook
+* Programming Language: Python
+* Python Libraries:
+  * Statistics libraries:
+  * Sklearn
+  * nltk
+* Data manipulation libraries:
+  * Pandas
+  * Numpy
+  * byArabic package
+  * camel tool
+* Visualization libraries
+  * Matplotlib
+  * Seaborn
+* Storage libraries
+  * Pickle
     
+
     
     
     
